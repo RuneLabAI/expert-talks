@@ -17,7 +17,7 @@ Kısacası; **“akademiden pratiğe, fikirden ürüne”** uzanan yolculuğu il
 Kısacası, **“öğrenmeye meraklı ve pratiğe dönüştürmek isteyen” herkes** bu serinin doğal bir parçası 🌟
 
 
-### [Bölüm 1: Enes Fehmi Manan](https://www.linkedin.com/in/enesfehmimanan/), [Engin Deniz Alpman](https://www.linkedin.com/in/engindenizalpman/) - [Yayın Kaydı](https://www.youtube.com/@GuncelZeka)
+### [Bölüm 1: Enes Fehmi Manan](https://www.linkedin.com/in/enesfehmimanan/) & [Engin Deniz Alpman](https://www.linkedin.com/in/engindenizalpman/) - [Yayın Kaydı](https://www.youtube.com/@GuncelZeka)
 <details>
 <summary>Click to expand!</summary>
 
@@ -40,3 +40,22 @@ Kısacası, **“öğrenmeye meraklı ve pratiğe dönüştürmek isteyen” her
 - [RAPIDS AI](https://github.com/rapidsai)
   
 </details>
+
+
+### [Bölüm 3: Eren Akbaba](https://www.linkedin.com/in/erenakbaba/) - [Yayın Kaydı](https://www.youtube.com/@GuncelZeka)
+<details>
+<summary>Click to expand!</summary>
+
+- [AWS SkillBuilder](https://skillbuilder.aws/)
+  
+</details>
+
+
+### [Bölüm 4: Bilge Yücel](https://www.linkedin.com/in/bilge-yucel/) - [Yayın Kaydı](https://www.youtube.com/@GuncelZeka)
+<details>
+<summary>Click to expand!</summary>
+
+- [Haystack](https://github.com/deepset-ai/haystack)
+  
+</details>
+
