@@ -59,3 +59,13 @@ Kısacası, **“öğrenmeye meraklı ve pratiğe dönüştürmek isteyen” her
   
 </details>
 
+
+### [Bölüm 5: Çağlar Subaşı](https://www.linkedin.com/in/caglar-subasi-293a5756/] - [Yayın Kaydı](https://www.youtube.com/@GuncelZeka)
+<details>
+<summary>Click to expand!</summary>
+
+- [Population Stability Index (PSI)](https://medium.com/model-monitoring-psi/population-stability-index-psi-ab133b0a5d42)
+  
+</details>
+
+
