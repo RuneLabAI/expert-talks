@@ -17,7 +17,7 @@ Kısacası; **“akademiden pratiğe, fikirden ürüne”** uzanan yolculuğu il
 Kısacası, **“öğrenmeye meraklı ve pratiğe dönüştürmek isteyen” herkes** bu serinin doğal bir parçası 🌟
 
 
-### [Bölüm 1: Enes Fehmi Manan](https://www.linkedin.com/in/enesfehmimanan/) & [Engin Deniz Alpman](https://www.linkedin.com/in/engindenizalpman/) - [Yayın Kaydı](https://www.youtube.com/@RuneLabAI)
+### [Bölüm 1: Enes Fehmi Manan](https://www.linkedin.com/in/enesfehmimanan/) & [Engin Deniz Alpman](https://www.linkedin.com/in/engindenizalpman/) - [Yayın Kaydı](https://www.youtube.com/watch?v=9GcETvclfgc)
 <details>
 <summary>Click to expand!</summary>
 
@@ -175,7 +175,7 @@ Expert Talks topluluğunun bir parçası olmak için:
 |----------|------|
 | 💬 **WhatsApp Grubu** | [Hemen Katıl](https://chat.whatsapp.com/GPVPO3koukQ0iGzZGprOXQ) |
 | 🎥 **YouTube Kanalı** | [Güncel Zeka](https://www.youtube.com/@RuneLabAI) |
-| 🌐 **Website** | [expert-talks-ai-insights.lovable.app](https://expert-talks-ai-insights.lovable.app/tr) |
+| 🌐 **Website** | [Expert Talks Landing Page](https://expert-talks-ai-insights.lovable.app/tr) |
 
 ---
 
