@@ -31,7 +31,7 @@ Kısacası, **“öğrenmeye meraklı ve pratiğe dönüştürmek isteyen” her
 
 </details>
 
-### [Bölüm 2: Ahmet Erdem](https://www.linkedin.com/in/aerdem4/) - [Yayın Kaydı](https://www.youtube.com/@RuneLabAI)
+### [Bölüm 2: Ahmet Erdem](https://www.linkedin.com/in/aerdem4/) - [Yayın Kaydı](https://www.youtube.com/watch?v=Iy2SEdG52p8)
 <details>
 <summary>Click to expand!</summary>
 
