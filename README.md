@@ -55,7 +55,7 @@ Kısacası, **“öğrenmeye meraklı ve pratiğe dönüştürmek isteyen” her
 </details>
 
 
-### [Bölüm 3: Eren Akbaba](https://www.linkedin.com/in/erenakbaba/) - [Yayın Kaydı](https://www.youtube.com/@RuneLabAI)
+### [Bölüm 3: Eren Akbaba](https://www.linkedin.com/in/erenakbaba/) - [Yayın Kaydı](https://www.youtube.com/watch?v=ml7fDgTgWNA)
 <details>
 <summary>Click to expand!</summary>
 
