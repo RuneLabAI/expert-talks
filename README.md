@@ -174,7 +174,7 @@ Expert Talks topluluğunun bir parçası olmak için:
 | Platform | Link |
 |----------|------|
 | 💬 **WhatsApp Grubu** | [Hemen Katıl](https://chat.whatsapp.com/GPVPO3koukQ0iGzZGprOXQ) |
-| 🎥 **YouTube Kanalı** | [Güncel Zeka](https://www.youtube.com/@RuneLabAI) |
+| 🎥 **YouTube Kanalı** | [RuneLabAI](https://www.youtube.com/@RuneLabAI) |
 | 🌐 **Website** | [Expert Talks Landing Page](https://runelab-expert-talks.lovable.app) |
 
 ---
