@@ -76,7 +76,7 @@ Kısacası, **“öğrenmeye meraklı ve pratiğe dönüştürmek isteyen” her
 </details>
 
 
-### [Bölüm 4: Bilge Yücel](https://www.linkedin.com/in/bilge-yucel/) - [Yayın Kaydı](https://www.youtube.com/@RuneLabAI)
+### [Bölüm 4: Bilge Yücel](https://www.linkedin.com/in/bilge-yucel/) - [Yayın Kaydı](https://www.youtube.com/watch?v=RM8qqNssITk)
 <details>
 <summary>Click to expand!</summary>
 
