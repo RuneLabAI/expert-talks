@@ -167,6 +167,23 @@ Kısacası, **“öğrenmeye meraklı ve pratiğe dönüştürmek isteyen” her
 </details>
 
 
+### [Bölüm 10: Bilge Yücel](https://www.linkedin.com/in/bilge-yucel/) - [Yayın Kaydı](https://www.youtube.com/@RuneLabAI)
+<details>
+<summary>Click to expand!</summary>
+
+**📚 Kaynaklar & Araçlar**
+
+- [Multimodal Agent Workshop](https://github.com/bilgeyucel/multimodal-agent-workshop) - Yayında kullanılan notebook; Haystack ve GPT-4o ile multimodal AI agent oluşturma workshop'u (görsel anlama, doküman retrieval, konuşma hafızası ve human-in-the-loop güvenlik kontrolleri)
+- [Multimodal Agent Colab Notebook](https://colab.research.google.com/github/bilgeyucel/multimodal-agent-workshop/blob/main/multimodal_agent_notebook.ipynb) - Workshop notebook'unun doğrudan Colab üzerinde çalıştırılabilir versiyonu
+- [Vision Language Models Explained](https://huggingface.co/blog/vlms) - Hugging Face'in VLM'leri detaylı anlatan blog yazısı; mimari yapı, transformers ile kullanım ve TRL ile fine-tuning rehberi
+- [Haystack Migration Guide](https://docs.haystack.deepset.ai/docs/migration) - Diğer framework'lerden veya Haystack 1.x'ten 2.x'e geçiş için kapsamlı migration rehberi
+- [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) - 30'dan fazla gelişmiş RAG tekniğini içeren kapsamlı repo; query enhancement, context enrichment, advanced retrieval ve daha fazlası
+- [HITL Hayhooks Redis OpenWebUI](https://github.com/deepset-ai/hitl-hayhooks-redis-openwebui) - Haystack Agent'ları için Redis tabanlı Human-in-the-Loop implementasyonu, Open WebUI entegrasyonu ile interaktif tool onay workflow'ları
+- [AI Dev Day - Bilge Yücel Sunumu](https://www.youtube.com/watch?v=tKyvkU69Ers) - Bilge Yücel'in AI Dev Day etkinliğindeki sunumu
+
+</details>
+
+
 ## 🤝 Topluluğa Katıl
 
 Expert Talks topluluğunun bir parçası olmak için:
