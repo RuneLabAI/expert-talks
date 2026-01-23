@@ -99,7 +99,7 @@ Kısacası, **“öğrenmeye meraklı ve pratiğe dönüştürmek isteyen” her
 </details>
 
 
-### [Bölüm 5: Çağlar Subaşı](https://www.linkedin.com/in/caglar-subasi-293a5756/) - [Yayın Kaydı](https://www.youtube.com/@RuneLabAI)
+### [Bölüm 5: Çağlar Subaşı](https://www.linkedin.com/in/caglar-subasi-293a5756/) - [Yayın Kaydı](https://www.youtube.com/watch?v=SyVXp1jC8mQ)
 <details>
 <summary>Click to expand!</summary>
 
