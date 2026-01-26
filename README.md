@@ -112,7 +112,7 @@ Kısacası, **“öğrenmeye meraklı ve pratiğe dönüştürmek isteyen” her
 </details>
 
 
-### [Bölüm 6: Beliz Günel](https://www.linkedin.com/in/beliz-gunel-7252bb78/) - [Yayın Kaydı](https://www.youtube.com/@RuneLabAI)
+### [Bölüm 6: Beliz Günel](https://www.linkedin.com/in/beliz-gunel-7252bb78/) - [Yayın Kaydı](https://www.youtube.com/watch?v=cvvcIitujb0)
 <details>
 <summary>Click to expand!</summary>
 
