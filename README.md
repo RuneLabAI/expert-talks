@@ -123,7 +123,7 @@ Kısacası, **“öğrenmeye meraklı ve pratiğe dönüştürmek isteyen” her
 </details>
 
 
-### [Bölüm 7: Olgun Aydın](https://www.linkedin.com/in/olgun-aydin) - [Yayın Kaydı](https://www.youtube.com/@RuneLabAI)
+### [Bölüm 7: Olgun Aydın](https://www.linkedin.com/in/olgun-aydin) - [Yayın Kaydı](https://www.youtube.com/watch?v=U7a-KLa1V70)
 <details>
 <summary>Click to expand!</summary>
 
