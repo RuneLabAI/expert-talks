@@ -136,7 +136,7 @@ Kısacası, **“öğrenmeye meraklı ve pratiğe dönüştürmek isteyen” her
 </details>
 
 
-### [Bölüm 8: Gökay Aydoğan](https://www.linkedin.com/in/gokayaydogan/) - [Yayın Kaydı](https://www.youtube.com/@RuneLabAI)
+### [Bölüm 8: Gökay Aydoğan](https://www.linkedin.com/in/gokayaydogan/) - [Yayın Kaydı](https://www.youtube.com/watch?v=Z9lj1ULI-zQ)
 <details>
 <summary>Click to expand!</summary>
 
@@ -180,6 +180,15 @@ Kısacası, **“öğrenmeye meraklı ve pratiğe dönüştürmek isteyen” her
 - [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) - 30'dan fazla gelişmiş RAG tekniğini içeren kapsamlı repo
 - [HITL Hayhooks Redis OpenWebUI](https://github.com/deepset-ai/hitl-hayhooks-redis-openwebui) - Haystack Agent'ları için Redis tabanlı Human-in-the-Loop implementasyonu, Open WebUI entegrasyonu ile interaktif tool onay workflow'ları
 - [AI Dev Day - Bilge Yücel Sunumu](https://www.youtube.com/watch?v=tKyvkU69Ers) - Bilge Yücel'in AI Dev Day etkinliğindeki sunumu
+
+</details>
+
+
+### [Bölüm 11: M. Akın Yılmaz](https://www.linkedin.com/in/m-ak%C4%B1n-y%C4%B1lmaz-4932b3114/) - [Yayın Kaydı](https://www.youtube.com/@RuneLabAI)
+<details>
+<summary>Click to expand!</summary>
+
+**📚 Kaynaklar & Araçlar**
 
 </details>
 
