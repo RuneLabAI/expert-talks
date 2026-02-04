@@ -190,6 +190,15 @@ Kısacası, **“öğrenmeye meraklı ve pratiğe dönüştürmek isteyen” her
 
 **📚 Kaynaklar & Araçlar**
 
+- [WaveFT: Exploring Sparsity for Parameter Efficient Fine Tuning Using Wavelets](https://arxiv.org/abs/2505.12532) - Wavelet domain'de sparse güncellemeler öğrenen yeni PEFT yöntemi LoRA'dan çok daha az parametre ile üstün sonuçlar elde ediyor
+- [Edit2Restore: Few-Shot Image Restoration](https://arxiv.org/abs/2601.03391) - Pre-trained image editing modellerini (FLUX.1 Kontext) sadece 16-128 örnek ile denoising, deraining, dehazing gibi restoration görevlerine adapte eden parameter-efficient yöntem
+- [NTIRE 2026 Workshop](https://cvlai.net/ntire/2026/) - CVPR 2026 ile birlikte düzenlenen "New Trends in Image Restoration and Enhancement" workshop'u ve 40'tan fazla challenge
+- [Flexible-Rate Bi-Directional Video Compression](https://arxiv.org/abs/2306.16544) - Multi-scale deformable alignment ve content-adaptive inference kullanan end-to-end learned video compression makalesi (ICIP 2023)
+- [Stable Diffusion Slayt](https://docs.google.com/presentation/d/1AE1RtHV4GaQUsCsKE2hDD15CfonwwHRIwYHdnahFH7U/edit?slide=id.p#slide=id.p) - Akın hocanın hazırladığı Stable Diffusion slaytları.
+- [alphaXiv](https://www.alphaxiv.org/) - arXiv makalelerini tartışabileceğiniz, özetlerini görebileceğiniz ve keşfedebileceğiniz interaktif AI araştırma platformu
+- [LoRA](https://github.com/microsoft/LoRA) - Low-Rank Adaptation of Large Language Models, büyük modelleri verimli fine-tune etmek için Microsoft'un orijinal LoRA implementasyonu
+- [PEFT](https://github.com/huggingface/peft) - State-of-the-art Parameter-Efficient Fine-Tuning kütüphanesi
+
 </details>
 
 
