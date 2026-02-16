@@ -153,7 +153,7 @@ Kısacası, **“öğrenmeye meraklı ve pratiğe dönüştürmek isteyen” her
 </details>
 
 
-### [Bölüm 9: Tuana Çelik](https://www.linkedin.com/in/tuanacelik/) - [Yayın Kaydı](https://www.youtube.com/@RuneLabAI)
+### [Bölüm 9: Tuana Çelik](https://www.linkedin.com/in/tuanacelik/) - [Yayın Kaydı](https://www.youtube.com/watch?v=njtcB-f85YM)
 <details>
 <summary>Click to expand!</summary>
 
@@ -167,7 +167,7 @@ Kısacası, **“öğrenmeye meraklı ve pratiğe dönüştürmek isteyen” her
 </details>
 
 
-### [Bölüm 10: Bilge Yücel](https://www.linkedin.com/in/bilge-yucel/) - [Yayın Kaydı](https://www.youtube.com/@RuneLabAI)
+### [Bölüm 10: Bilge Yücel](https://www.linkedin.com/in/bilge-yucel/) - [Yayın Kaydı](https://www.youtube.com/watch?v=4Ssk1w0BvoM)
 <details>
 <summary>Click to expand!</summary>
 
@@ -201,6 +201,16 @@ Kısacası, **“öğrenmeye meraklı ve pratiğe dönüştürmek isteyen” her
 
 </details>
 
+
+### [Bölüm 12: Uzay Macar](https://www.linkedin.com/in/uzaymacar/) - [Yayın Kaydı](https://www.youtube.com/@RuneLabAI)
+<details>
+<summary>Click to expand!</summary>
+
+**📚 Kaynaklar & Araçlar**
+
+- [Uzay Macar Github Hesabı](https://github.com/uzaymacar) - Uzay'ın açık kaynak projeleri ve katkıları
+  
+</details>
 
 ## 🤝 Topluluğa Katıl
 
