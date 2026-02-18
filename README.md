@@ -206,10 +206,28 @@ Kısacası, **“öğrenmeye meraklı ve pratiğe dönüştürmek isteyen” her
 <details>
 <summary>Click to expand!</summary>
 
-**📚 Kaynaklar & Araçlar**
+**📂 Repolar**
 
 - [Uzay Macar Github Hesabı](https://github.com/uzaymacar) - Uzay'ın açık kaynak projeleri ve katkıları
-  
+- [Interp Reasoning](https://github.com/interp-reasoning) - LLM reasoning adımlarının yorumlanabilirliği üzerine araştırma organizasyonu (Thought Anchors ve Thought Branches makaleleri)
+- [Thought Anchors](https://www.thought-anchors.com/) - LLM'lerin hangi reasoning adımlarının gerçekten önemli olduğunu analiz eden interaktif görselleştirme aracı
+- [Attention Mechanisms](https://github.com/uzaymacar/attention-mechanisms) - Uzay'ın attention mekanizması implementasyonu
+- [Petri: Open-Source Auditing Tool](https://www.anthropic.com/research/petri-open-source-auditing) - Anthropic'in AI güvenlik araştırmalarını hızlandırmak için geliştirdiği açık kaynak otomatik davranış denetleme aracı
+- [Bloom: Automated Behavioral Evaluations](https://www.anthropic.com/research/bloom) - Anthropic'in frontier AI modellerinin davranışlarını otomatik olarak değerlendiren açık kaynak framework'ü
+
+**🎬 Videolar**
+
+- [What You Would See During an AI Takeover](https://www.youtube.com/watch?v=D8RtMHuFsUw) - Yapay zekanın kontrolü ele geçirip insanlığı manipülasyonla yok etme senaryosunu konu alan bir video
+- [Steering LLM Behavior Without Fine-Tuning](https://www.youtube.com/watch?v=F2jd5WuT-zg) - Yapay zekayı ince ayar yapmadan vektörlerle yönlendirme yöntemini anlatan HF videosu
+
+**📚 Kaynaklar & Araçlar**
+
+- [Amanda Askell](https://askell.io/) - Anthropic'te finetuning ve AI alignment üzerine çalışan filozof ve araştırmacı
+- [Mapping the Mind of a Large Language Model](https://www.anthropic.com/news/mapping-mind-language-model) - Anthropic'in Claude Sonnet'in iç yapısındaki milyonlarca kavramı keşfettiği interpretability araştırması
+- [METR Time Horizons](https://metr.org/time-horizons/) - Frontier AI modellerinin görev tamamlama zaman ufuklarını ölçen benchmark ve analiz
+- [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717) - LLM'lerde refusal davranışının tek boyutlu bir alt uzay tarafından yönlendirildiğini gösteren makale
+- [Victor Taelin](https://x.com/VictorTaelin) - HVM (Higher-Order Virtual Machine) yaratıcısı, massively parallel fonksiyonel programlama üzerine çalışan geliştirici
+
 </details>
 
 ## 🤝 Topluluğa Katıl
