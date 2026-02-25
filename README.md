@@ -184,7 +184,7 @@ Kısacası, **“öğrenmeye meraklı ve pratiğe dönüştürmek isteyen” her
 </details>
 
 
-### [Bölüm 11: M. Akın Yılmaz](https://www.linkedin.com/in/m-ak%C4%B1n-y%C4%B1lmaz-4932b3114/) - [Yayın Kaydı](https://www.youtube.com/@RuneLabAI)
+### [Bölüm 11: M. Akın Yılmaz](https://www.linkedin.com/in/m-ak%C4%B1n-y%C4%B1lmaz-4932b3114/) - [Yayın Kaydı](https://www.youtube.com/watch?v=HGi10ViyeEw)
 <details>
 <summary>Click to expand!</summary>
 
@@ -202,7 +202,7 @@ Kısacası, **“öğrenmeye meraklı ve pratiğe dönüştürmek isteyen” her
 </details>
 
 
-### [Bölüm 12: Uzay Macar](https://www.linkedin.com/in/uzaymacar/) - [Yayın Kaydı](https://www.youtube.com/@RuneLabAI)
+### [Bölüm 12: Uzay Macar](https://www.linkedin.com/in/uzaymacar/) - [Yayın Kaydı](https://www.youtube.com/watch?v=kqjSR3c7isc)
 <details>
 <summary>Click to expand!</summary>
 
